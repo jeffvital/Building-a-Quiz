@@ -116,3 +116,9 @@ input {
   width: 10%;
   min-width: 55px;
 }
+
+.info > label,
+.info > input {
+  display: inline-block;
+  text-align: right;
+}
