@@ -39,6 +39,8 @@ h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
+  margin-top: 0;
+  padding-top: 60px;
 }
 
 .sr-only {
@@ -84,4 +86,23 @@ section {
   margin: 0 auto;
   margin-bottom: 10px;
   max-width: 600px;
+}
+
+.info {
+  padding-bottom: 0;
+  padding-top: 1px;
+  padding-right: 0;
+  padding-left: 1px;
+}
+
+.formrow {
+  padding-top: 0;
+  padding-right: 1px;
+  padding-bottom: 0;
+  padding-left: 1px;
+  margin-top: 1px;
+}
+
+input {
+  font-size: 13px;
 }
