@@ -78,3 +78,10 @@ nav > ul > li:hover {
 main {
   padding-top: 25px;
 }
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  max-width: 600px;
+}
